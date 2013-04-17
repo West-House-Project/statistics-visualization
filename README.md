@@ -11,7 +11,7 @@ And also, you would need CoffeeScript installed as well.
 ### First Time
 
 ```shell
-# Assuming that you are CD'd to the statistics folde.r
+# Assuming that you are CD'd to the statistics folder.
 npm install
 ```
 

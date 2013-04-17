@@ -1,0 +1,8 @@
+{
+  "database": {   
+    "host"    : "west-house.no-ip.org",
+    "user"    : "root",
+    "password": "OjAbvew8OjAbvew8",
+    "database": "westHouseData"
+  }
+}
